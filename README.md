@@ -91,7 +91,6 @@ The Eventhouse database storing structured streaming data for analytics.
 ---
 
 ## 👨‍💻 **Created by:** [Ahmed Rabie](https://www.linkedin.com/in/ahmed-m-rabie-0ba5b120b/) – Data Engineer  
----
 
 ## 📜 License
 This repository is provided for **portfolio and demonstration purposes only**.  
