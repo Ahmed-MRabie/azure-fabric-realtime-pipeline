@@ -1,10 +1,10 @@
 # Real-Time E-commerce Data Pipeline with Azure & Microsoft Fabric
 
-![Azure](https://img.shields.io/badge/Azure-Functions-blue?logo=microsoft-azure)  
-![Event Hub](https://img.shields.io/badge/Azure-EventHub-0078D4?logo=microsoft-azure)  
+![Azure](https://img.shields.io/badge/Azure-Functions-blue?logo=microsoft-azure)
+![Event Hub](https://img.shields.io/badge/Azure-EventHub-0078D4?logo=microsoft-azure)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft-Fabric-purple?logo=microsoft)  
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Viz-F2C811?logo=power-bi)  
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)  
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Viz-F2C811?logo=power-bi)
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 
 ---
 
@@ -43,7 +43,7 @@ It ingests data from an e-commerce source, streams it into Fabric, and provides 
 ## 📈 Dashboard Preview
 The final dashboard in **Power BI (Fabric)** includes KPIs and multiple categorical breakdowns:
 
-![Dashboard Preview](./docs/superstore-streaming-report.png)
+![Dashboard Preview](./docs/superstore-streaming-report.jpg)
 
 ---
 
