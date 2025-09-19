@@ -1,10 +1,12 @@
 # Real-Time E-commerce Data Pipeline with Azure & Microsoft Fabric
 
-![Azure](https://img.shields.io/badge/Azure-Functions-blue?logo=microsoft-azure)
-![Event Hub](https://img.shields.io/badge/Azure-EventHub-0078D4?logo=microsoft-azure)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft-Fabric-purple?logo=microsoft)  
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Viz-F2C811?logo=power-bi)
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-Functions-blue?logo=microsoft-azure" />
+  <img src="https://img.shields.io/badge/Azure-EventHub-0078D4?logo=microsoft-azure" />
+  <img src="https://img.shields.io/badge/Microsoft-Fabric-purple?logo=microsoft" />
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Viz-F2C811?logo=power-bi" />
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" />
+</p>
 
 ---
 
@@ -88,7 +90,7 @@ The Eventhouse database storing structured streaming data for analytics.
 
 ---
 
-## 👨‍💻 **[Ahmed Rabie](https://www.linkedin.com/in/ahmed-m-rabie-0ba5b120b/)** – Data Engineer  
+## 👨‍💻 **Created by**[Ahmed Rabie](https://www.linkedin.com/in/ahmed-m-rabie-0ba5b120b/) – Data Engineer  
 ---
 
 ## 📜 License
