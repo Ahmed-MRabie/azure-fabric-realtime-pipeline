@@ -1,12 +1,22 @@
 # Real-Time E-commerce Data Pipeline with Azure & Microsoft Fabric
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure-Functions-blue?logo=microsoft-azure" />
-  <img src="https://img.shields.io/badge/Azure-EventHub-0078D4?logo=microsoft-azure" />
-  <img src="https://img.shields.io/badge/Microsoft-Fabric-purple?logo=microsoft" />
-  <img src="https://img.shields.io/badge/Power%20BI-Data%20Viz-F2C811?logo=power-bi" />
-  <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" />
-</p>
+<div align="center">
+
+
+[![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
+[![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+[![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
+[![Azure](https://img.shields.io/badge/Azure-0078d4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org/)
+
+[![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)](https://clickhouse.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Metabase]([https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)](https://metabase.com/](https://img.shields.io/azure-devops/build/:organization/:projectId/:definitionId
+))
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
+
+</div>
 
 ---
 
