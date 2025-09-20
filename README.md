@@ -1,7 +1,5 @@
 # Real-Time E-commerce Data Pipeline with Azure & Microsoft Fabric
 
-<div align="center">
-
 
 <div align="center">
 
@@ -9,8 +7,6 @@
 [![Azure Event Hub](https://img.shields.io/badge/Azure%20Event%20Hub-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/azure/event-hubs/)
 [![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-8024B6?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/fabric/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-
-
 
 </div>
 
